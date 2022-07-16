@@ -1,0 +1,4 @@
+[submodule "reference-letter-spring-service"]
+	path = reference-letter-spring-service
+	url = git@github.com:panagiotisbellias/reference-letter-spring-service.git
+	branch = spring-boot
