@@ -22,5 +22,21 @@ services:
     restart:
       always
 
+  vuejs:
+    container_name: rl_client_vuejs_app
+    build:
+      context: reference-letters-vuejs-client
+      dockerfile: Dockerfile
+    volumes:
+      - './reference-letters-vuejs-client:/app'
+      - '/app/node_modules'
+    env_file:
+      - reference-letters-vuejs-client/.env
+    ports:
+      - "80:80"
+      # - "443:443"
+    #depends_on:
+    #  - spring
+
 volumes:
   dj_postgres_data:
