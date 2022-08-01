@@ -2,3 +2,7 @@
 	path = reference-letter-spring-service
 	url = git@github.com:panagiotisbellias/reference-letter-spring-service.git
 	branch = spring-boot
+[submodule "reference-letters-vuejs-client"]
+	path = reference-letters-vuejs-client
+	url = git@github.com:panagiotisbellias/reference-letters-vuejs-client.git
+	branch = master
