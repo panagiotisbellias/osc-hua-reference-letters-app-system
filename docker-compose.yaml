@@ -2,7 +2,7 @@ version: "2.2"
 
 services:
   postgres_db:
-    container_name: rl_server_postgres_db
+    container_name: rl_postgres_database
     image: postgres:14
     expose:
       - 5432
@@ -23,7 +23,7 @@ services:
       always
 
   vuejs:
-    container_name: rl_client_vuejs_app
+    container_name: rl_vuejs_client
     build:
       context: reference-letters-vuejs-client
       dockerfile: Dockerfile
