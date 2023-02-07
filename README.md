@@ -1,7 +1,7 @@
 # reference-letters-app-system
 A web system about reference letters handling in the context of DIT-HUA pre-graduate course "Distributed Systems"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=panagiotisbellias&label=Profile%20views&color=0e75b6&style=flat" alt="panagiotisbellias" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=panagiotisbellias&label=Profile%20views&color=0e75b6&style=flat" alt="panagiotisbellias" />  </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
